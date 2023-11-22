@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "adm-zip": "^0.5.10",
+    "cypress": "^13.3.2",
+    "unzipper": "^0.10.14"
+  }
+}
